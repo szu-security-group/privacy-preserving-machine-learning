@@ -1,0 +1,20 @@
+
+having done decision tree training
+------------------------------------
+Wall Clock time for training: 107.922 sec
+CPU time for training: 65.4062 sec
+------------------------------------
+------------------------------------
+Communication, training, P1: 17.1565MB (sent) 24.2759MB (recv)
+Rounds, training, P1: 647594(sends) 1012427(recvs)
+------------------------------------
+
+accuracy: 62 out of 62 (100 %)
+------------------------------------
+Wall Clock time for testing: 0.375668 sec
+CPU time for testing: 0.078125 sec
+------------------------------------
+------------------------------------
+Communication, testing, P1: 0.02304MB (sent) 0.02756MB (recv)
+Rounds, testing, P1: 2068(sends) 2756(recvs)
+------------------------------------
