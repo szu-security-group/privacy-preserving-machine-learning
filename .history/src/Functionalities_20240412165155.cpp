@@ -464,10 +464,9 @@ void funcRELUPrime3PC(const vector<myType> &a, vector<myType> &b, size_t size)
 	}
 }
 
-// All parties start with shares of a number in a and b and the quotient is in quotient.
-// a is numerator(分子); b is denumerator(分母)
-// a/b=quotient
-// 分子小于分母
+//All parties start with shares of a number in a and b and the quotient is in quotient.
+//a is numerator(分子); b is denumerator(分母)
+//a/b=quotient
 void funcDivisionMPC(const vector<myType> &a, const vector<myType> &b, vector<myType> &quotient, 
 							size_t size)
 {
